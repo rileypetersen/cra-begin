@@ -1,2 +1,0 @@
-# cra-begin
-Begin app
