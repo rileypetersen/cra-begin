@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-groups",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
