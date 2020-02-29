@@ -1,4 +1,4 @@
-cd.. /* global fetch */
+/* global fetch */
 import React, { useState, useEffect }
 from 'react';
 import logo from './logo.svg';
@@ -31,15 +31,15 @@ const App = () => {
         p > { message } < /p> <
         p > Hello, world < /p> <
         p >
-        Edit < code > src / App.js < /code> and save to reload. <
-        /p> <
+        Edit < code > src / App.js < /code> and save to reload. < /
+        p > <
         a className = "App-link"
         href = "https://reactjs.org"
         target = "_blank"
         rel = "noopener noreferrer" >
         Learn React <
-        /a> <
-        /header> <
+        /a> < /
+        header > <
         /div>
     );
 }
