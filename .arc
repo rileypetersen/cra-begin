@@ -6,6 +6,7 @@ folder build
 
 @http
 get /api
+get /groups
 
 @tables
 data
